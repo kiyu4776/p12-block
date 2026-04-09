@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>ServerAddresses</key>
+				<array>
+					<string>0.0.0.0</string>
+					<string>::</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<!-- URL -->
+				<array>
+					<string>www.ocsp.apple.com</string>
+					<string>ocsp.apple.com</string>
+					<string>www.ocsp2.apple.com</string>
+					<string>ocsp2.apple.com</string>
+					<string>ppq.apple.com</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Root</string>
+			<key>PayloadIdentifier</key>
+			<string>kiyu4776</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>C8767F2E-4E3A-4B8D-9F1D-2A6D8F7D3A1B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>署名無効プロファイル</string>
+	<key>PayloadIdentifier</key>
+	<string>append</string>
+	<key>PayloadOrganization</key>
+	<string>https://github.com/kiyu4776</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5A3D1E8B-2C4F-4A9D-B6E7-3F8C2D1E5A7B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
