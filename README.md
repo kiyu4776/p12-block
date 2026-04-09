@@ -12,7 +12,7 @@ P12証明書の署名チェックをブロックするための構成プロフ�
 
 ## インストール方法
 
-[インストール](https://raw.githubusercontent.com/kiyu4776/p12-block/main/p12-block.mobileconfig)
+<a href="https://raw.githubusercontent.com/kiyu4776/p12-block/main/p12-block.mobileconfig" download>インストール</a>
 
 ## 注意事項
 
