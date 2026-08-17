@@ -13,8 +13,3 @@ P12証明書の署名チェックをブロックするための構成プロフ�
 ## インストール方法
 
 <a href="https://raw.githubusercontent.com/kiyu4776/p12-block/main/p12-block.mobileconfig" download>インストール</a>
-
-## 注意事項
-
-- このプロファイルはWi-Fi接続時のみ有効です。
-- 有効期限は無効にできません。
